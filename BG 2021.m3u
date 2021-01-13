@@ -63,7 +63,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625815
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9029
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/hbo-hd-logo.png",HBO FHD BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5977
-#EXTINF:0 tvg-logo="",HBO 1 BG
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/hbo-hd-logo.png",HBO 1 BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37971
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/logo-hbo-2-hd.png",HBO 2 FHD BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5976
@@ -95,9 +95,9 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5954
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37969
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/axn-final.png",AXN BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37968
-#EXTINF:0 tvg-logo="",Action Plus HD BG
+#EXTINF:0 tvg-logo="http://tvplus.bg/img/site/program/actionplus-logo.png",Action Plus HD BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5955
-#EXTINF:0 tvg-logo="",Film Plus BG
+#EXTINF:0 tvg-logo="https://www.тв-програма.bg/tvlogos/film-plus_large.jpg",Film Plus BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5965
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/changes-01-02-18/filmbox-extra-sd.png",Filmbox Extra BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5966
@@ -117,9 +117,9 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37970
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9026
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/history-new-logo-r.png",History Channel BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37956
-#EXTINF:0 tvg-logo="",Hobby TV HD BG
+#EXTINF:0 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hobby_tv_bg_hd.png",Hobby TV HD BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5968
-#EXTINF:0 tvg-logo="",Hobby Lov BG
+#EXTINF:0 tvg-logo="http://www.predavatel.com/bg/tv/images/hobby-lov.gif",Hobby Lov BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5967
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/changes-01-02-18/animal-hd.png",Animal Planet FHD BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37967
@@ -135,11 +135,11 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5947
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37953
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/wness-tv-hd.png",WnessTV FHD BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683452
-#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/travel-ch.png",Travel Channel BG
+#EXTINF:0 tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/04/08/20160408110643-82721008-th.png",Travel Channel BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685958
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/tlc-ad1.png",TLC BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685957
-#EXTINF:0 tvg-logo="",F Plus BG
+#EXTINF:0 tvg-logo="http://tvplus.bg/img/site/program/fplus-logo.png",F Plus BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685956
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/CN.png",Cartoon Network BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5938
@@ -181,7 +181,7 @@ http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5972
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5964
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/dstv-logo.png",DSTV BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5973
-#EXTINF:0 tvg-logo="",Roma TV FHD BG
+#EXTINF:0 tvg-logo="http://romatv.bg/templates/tube/images/logo.png",Roma TV FHD BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9010
 #EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/planetafolk.png",Planeta Folk BG
 http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9014
