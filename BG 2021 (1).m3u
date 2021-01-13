@@ -1,0 +1,191 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="",########## Bulgarian ##########
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5983
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bnt1_bg.jpg",BNT 1 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5951
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bnt2_bg.jpg",BNT 2 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/59504
+#EXTINF:0 tvg-logo="",BNT 3 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625818
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/btv-hd-80x50.png",BTV FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625816
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_bg.jpg",BTV HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5960
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/nova-tv-blue-logo-80x50.png",Nova TV FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5971
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/kanal3_tr.jpg",Kanal 3 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5939
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_europa.jpg",TV Evropa BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37974
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/evrokom_bg.jpg",Evrokom BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5944
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tv_plus_ga.jpg",TV Plus BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5978
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/78-tv-logo-80x50.png",7/8 TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/665924
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/bg-onair.png",On Air TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5943
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/bulgaria24-logo.png",Bulgaria 24 BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37973
+#EXTINF:0 tvg-logo="",DNES FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37950
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/bloomberg.png",Bloomberg FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37965
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/skat-tv-logoo.png",SKAT BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685955
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/alfa_tv.png",Alfa TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685959
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/diema-sport-logo.png",Diema Sport 1 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5982
+#EXTINF:0 tvg-logo="https://www.seirsanduk.online/images/tvlogo/diemasport.png",Diema Sport 1 BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/681649
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/diemasport2-logo.png",Diema Sport 2 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5981
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-plus/max-sport-1-hd-80x50-new-logo.png",Max Sport 1 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50865
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-plus/max-sport-2-hd-80x50-new-logo.png",Max Sport 2 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/50866
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-plus/max-sport-3-hd-80x50-new-logo.png",Max Sport 3 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/629048
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/max-sport-plus/max-sport-4-hd-80x50-new-logo.png",Max Sport 4 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/641399
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/novasporthd.png",Nova Sport HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5979
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/ringhd-newlogo.png",Ring TV HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5980
+#EXTINF:0 tvg-logo="https://i.imgur.com/PjBm4Ic.jpg",Auto Motor Sport BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37964
+#EXTINF:0 tvg-logo="http://tvplus.bg/img/site/program/timeline/sportplushd-logo-over.png",Sport Plus FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9022
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/eurosport1-hd-logo.png",Eurosport 1 HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625815
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/eurosport2-hd-logo.png",Eurosport 2 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9029
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/hbo-hd-logo.png",HBO FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5977
+#EXTINF:0 tvg-logo="",HBO 1 BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37971
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/logo-hbo-2-hd.png",HBO 2 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5976
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/logo-hbo-3-hd.png",HBO 3 FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5975
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/logo-cinemax-hd.png",CineMax 1 BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37963
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/logo-cinemax-2-hd.png",CineMax 2 BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37962
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/btv-actionhd-newlogo.png",BTV Action BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5959
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/btv-cinema-new-logo.png",BTV Cinema BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5956
+#EXTINF:0 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/btv_comedy.jpg",BTV Comedy BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5957
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/btv-lady-hd-80x50.png",BTV Lady HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5958
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/kinonova-8050.png",Kino Nova BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5969
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/diema-80x50.png",Diema TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5962
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/diema-f-80x50.png",Diema Family BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5961
+#EXTINF:0 tvg-logo="http://tvplus.bg/img/site/program/timeline/cinemaplus-logo-over.png",Cinema Plus BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5974
+#EXTINF:0 tvg-logo="http://tvplus.bg/img/site/program/timeline/comedyplus-logo-over.png",Comedy Plus BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5954
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/amc-logo.png",AMC BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37969
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/axn-final.png",AXN BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37968
+#EXTINF:0 tvg-logo="",Action Plus HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5955
+#EXTINF:0 tvg-logo="",Film Plus BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5965
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/changes-01-02-18/filmbox-extra-sd.png",Filmbox Extra BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5966
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/filmbox-star-logo-70x50.png",Filmbox Stars BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/625814
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-october-2016/moviestar-clean.png",Movie Star BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9013
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/fox-80x.png",Fox BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9018
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/fox-life80.png",Fox Life BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37972
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/fox-crime-80x50.png",Fox Crime BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9017
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/logo-24-kitchen.png",24 Kitchen FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37970
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/food-network-hd-new-logo-1.png",Food Network HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9026
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/history-new-logo-r.png",History Channel BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37956
+#EXTINF:0 tvg-logo="",Hobby TV HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5968
+#EXTINF:0 tvg-logo="",Hobby Lov BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5967
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/changes-01-02-18/animal-hd.png",Animal Planet FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37967
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/changes-01-02-18/discovery-hd.png",Discovery Channel HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9019
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/new-december-2016/national-georgraphic-hd.png",National Geographic FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9012
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/nat-geo-wild-hd.png",Nat Geo Wild HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5946
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/viasat-history-2.png",Viasat History HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5947
+#EXTINF:0 tvg-logo="http://traveltv.bg/intro/logo_thisisbg.png",This is Bulgaria HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37953
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/wness-tv-hd.png",WnessTV FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683452
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/travel-ch.png",Travel Channel BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685958
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/tlc-ad1.png",TLC BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685957
+#EXTINF:0 tvg-logo="",F Plus BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685956
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/CN.png",Cartoon Network BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5938
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/boomerang-new.png",Boomerang BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683454
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/disneynewlogo.png",Disney Channel BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37961
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/jimjam-logo-new-80x50.jpg",Jim Jam BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37951
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/nickelodeon-80.png",Nickelodeon BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37955
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/nickjr.png",Nick Jr BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685960
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/logo-babytv-2018new-(2018).png",Baby TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5942
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/ducktv-logo.png",Duck TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37960
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/ekids-logo-80x50-new.png",E-Kids BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37959
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/balkanika-logo.png",Balkanika Music FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5948
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/fen-tv-hd.png",Fen Folk BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685954
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/boxmusic.png",Box TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5953
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/bg-music.png",BG Music HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9011
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/thevoice.png",The Voice BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5941
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/city_tv.png",City TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9020
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/logo-magic-tv-new-2.png",Magic TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5970
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/planeta-hd.png",Planeta HD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37949
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/planetatv.png",Planeta BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5972
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/fen-tv-actual.png",Fen TV FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5964
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/dstv-logo.png",DSTV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5973
+#EXTINF:0 tvg-logo="",Roma TV FHD BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9010
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/planetafolk.png",Planeta Folk BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/9014
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/folklor-new.png",Folklor TV BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37957
+#EXTINF:0 tvg-logo="https://www.vivacom.bg/web/files/richeditor/tv/tv-channels-logos/tiankovtv-logo.png",Tiankov Folk BG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/37952
